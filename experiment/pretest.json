@@ -2,12 +2,12 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": ". A rectangular pontoon is 5 m long, 3 m wide and 1.40 m high. The depth of immersion of the pontoon is 0.60 m in seawater. If the centre of gravity is 0.7 m above the bottom of the pontoon, determine the metacentric height. The density for seawater = 1045 kg/m3?",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "0.135",
+        "b": "0.271",
+        "c": "0.543",
+        "d": "0.068"
       },
       "explanations": {
         "a": "Explanation 1  <a href='www.google.com'>here</a>",
