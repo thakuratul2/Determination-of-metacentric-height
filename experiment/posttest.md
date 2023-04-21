@@ -1,5 +1,5 @@
 ## <b> POST TEST </b>
-<br>
+
 1. The ratio of actual discharge of a jet of water at vena-contracta to the theoretical discharge is known as ?<br>
 1. co-efficient of discharge<br>
 2. co-efficient of velocity<br>
