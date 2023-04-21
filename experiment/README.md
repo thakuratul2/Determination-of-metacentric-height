@@ -25,9 +25,9 @@ A known weight W1 is shifted by a distance Z across the axis of tilt. The change
 
 <img src="images/height.png"/>
 
-Wc = weight of the vessel
-W1 = weight of unbalanced mass
-Z = distance of the unbalanced mass from the centre of the cross bar.
+Wc = weight of the vessel<br>
+W1 = weight of unbalanced mass<br>
+Z = distance of the unbalanced mass from the centre of the cross bar.<br>
 
 <img src="images/res.png"/>
 
