@@ -20,6 +20,17 @@ The metacentre may also be defined as a point of intersection of the axis of bod
 
 The experimental set up consists of a pontoon (flat bottomed vessel) which is allowed of float in a M.S. tank having a transparent side. Removable steel strips are placed in the model for the purpose of changing the weight of the vessel. By means of a pendulum (consisting of a weight suspended to a longer pointer), the angle of tilt θ can be measured on a graduated arc. For tilting the ship model a cross bar with two movable hangers is fixed on the model. Pendulum and graduated arc are suitably fixed at the centre of the cross bar.
 
+### Determination of Metacentric Height
+A known weight W1 is shifted by a distance Z across the axis of tilt. The change in momentum due to this shift is W1 Z. Let the angle of tilt be θ. The change in moment due to this tilt is equal to (Wc + W1) GM tanθ.
+
+<img src="images/height.png"/>
+
+Wc = weight of the vessel
+W1 = weight of unbalanced mass
+Z = distance of the unbalanced mass from the centre of the cross bar.
+
+<img src="images/res.png"/>
+
 ### PROCEDURE
 
 1.	Note down the relevant dimensions as area of collecting tank, mass density of water etc.
