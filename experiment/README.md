@@ -13,7 +13,7 @@ Metacentre: Figure shows a body floating in a liquid in a state of equilibrium. 
 
 The metacentre may also be defined as a point of intersection of the axis of body passing through centre of gravity G and original centre of buoyancy B and a vertical line passing through the centre of buoyancy B1 of the tilled position of the body. 
 
-<img src="images/test3.jpg"/>
+<img src="images/pic.png"/>
 
 
 ### DESCRIPTION
@@ -31,7 +31,7 @@ The experimental set up consists of a pontoon (flat bottomed vessel) which is al
 
 ### DATA
 
-Area of Tank (A) = 2500 cm2
+Area of Tank (A) = 2500 cm2<br>
 Unit weight of water (w) = 1 gm/cm3
 
 ### RESULTS
