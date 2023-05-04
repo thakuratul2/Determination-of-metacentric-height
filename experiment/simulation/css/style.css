@@ -32,6 +32,17 @@
     margin-top: 42px;
     height: 719px;
 }
+
+.arrow{
+  position: absolute;
+  left:120px;
+  top:400px;
+}
+.y1{
+  position: absolute;
+  left:100px;
+  top:430px;
+}
 .buttons{
     position: absolute;
     /* top: 125px; */
