@@ -1,6 +1,7 @@
 This folder has 
 
 ### Aim: 
+
 To determine experimentally the metacentric height of a flat bottomed pontoon.
 
 ### THEORY
@@ -12,6 +13,7 @@ If the weight of the fluid displaced is less than the weight of the object, the 
 Archimedes’ principle tells us that this loss of weight is equal to the weight of the fluid, wholly or partially, displaced by the object. The corresponding equation is given by,
 Fb = ρ × g × V
 Where,
+
 Fb is the buoyant force (or thrust)
 ρ is the density of the fluid in which the object is immersed
 V is the volume of the object that is submerged in the fluid
