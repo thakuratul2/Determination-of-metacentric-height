@@ -44,8 +44,9 @@
 }
 .y1{
   position: absolute;
-  left:100px;
-  top:430px;
+  left:322px;
+  top:525px;
+  color: yellow;
 }
 .buttons{
     position: absolute;
