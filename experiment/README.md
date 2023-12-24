@@ -27,7 +27,7 @@ Metacentre: Figure shows a body floating in a liquid in a state of equilibrium. 
 
 The metacentre may also be defined as a point of intersection of the axis of body passing through centre of gravity G and original centre of buoyancy B and a vertical line passing through the centre of buoyancy B1 of the tilled position of the body. 
 
-<img src="images/pic.png"/>
+<img src="./images/pic.png"/>
 
 ## Applications of this experiment are:
 
@@ -89,17 +89,26 @@ The experimental set up consists of a pontoon (flat bottomed vessel) which is al
 ### Determination of Metacentric Height
 A known weight W1 is shifted by a distance Z across the axis of tilt. The change in momentum due to this shift is W1 Z. Let the angle of tilt be θ. The change in moment due to this tilt is equal to (Wc + W1) GM tanθ.
 
-<img src="images/height.png"/>
+<img src="./images/height.png"/>
+
 
 Wc = weight of the vessel<br>
 W1 = weight of unbalanced mass<br>
 Z = distance of the unbalanced mass from the centre of the cross bar.<br>
 
 <img src="images/res.png"/>
+<br>
+<img src="./images/res2.png"/>
 
-## EXPERIMENTAL SET UP:
+### RESULTS
 
-The experimental set up consists of a pontoon (flat bottomed vessel) which is allowed of float in a M.S. tank. The weight of the vessel is kept fix here. By means of a pendulum (consisting of a weight suspended to a longer pointer), the angle of tilt θ can be measured on a graduated arc. For tilting the ship model a cross bar with four movable hangers is fixed on the model. Pendulum and graduated arc are suitably fixed at the centre of the cross bar.
+The metacentric height of a flat bottom pontoon =
+
+### PRECAUTIONS
+
+1.	Apparatus should be in leveled conditions.
+2.	Reading must be taken in steady condition of water.
+3.	Unbalanced mass should be measured by taking care that water disturbance should be minimum.
 
 ### PROCEDURE
 
@@ -115,12 +124,6 @@ The experimental set up consists of a pontoon (flat bottomed vessel) which is al
 
 
 
-### RESULTS
 
-The metacentric height of a flat bottom pontoon =
 
-### PRECAUTIONS
 
-1.	Apparatus should be in leveled conditions.
-2.	Reading must be taken in steady condition of water.
-3.	Unbalanced mass should be measured by taking care that water disturbance should be minimum.
