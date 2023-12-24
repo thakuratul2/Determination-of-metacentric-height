@@ -1,4 +1,3 @@
-This folder has 
 
 ### Aim: 
 
@@ -32,17 +31,29 @@ The metacentre may also be defined as a point of intersection of the axis of bod
 
 ## Applications of this experiment are:
 
-•	A ship or a boat can float on water because the weight of the displaced water is equal to the weight of the ship or boat.
-•	A submarine can dive into the water or can float on it. A submarine consists of ballast tanks that are filled with air or water. The tanks weigh less than an equal volume of water and make the sub float on the surface. If the tanks are partly filled with air, it is possible to make the submarine float at some depth of the water without either rising or sinking.
-•	Hot air balloons rise into the air because the density of the warmer air inside the balloon is less dense than the colder air outside. The basic principle of hot air balloon is the use of hot air to create buoyancy, which generates lift.
+•	A ship or a boat can float on water because the weight of the displaced water is equal to the weight of the ship or boat.<br>
+•	A submarine can dive into the water or can float on it. A submarine consists of ballast tanks that are filled with air or water. The tanks weigh less than an equal volume of water and make the sub float on the surface. If the tanks are partly filled with air, it is possible to make the submarine float at some depth of the water without either rising or sinking.<br>
+•	Hot air balloons rise into the air because the density of the warmer air inside the balloon is less dense than the colder air outside. The basic principle of hot air balloon is the use of hot air to create buoyancy, which generates lift.<br>
 •	Water striders can float on the water since its legs expel water, and the weight of the expelled water is equal to the floating force.
 
 
 
-Metacentric height: The metacentric height (GM) is a critical parameter in naval architecture and ship stability. It represents the distance between the center of gravity (G) and the metacenter (M) of a floating body. A positive metacentric height indicates stability, while a negative value suggests instability.
+## Metacentric height: 
+The metacentric height (GM) is a critical parameter in naval architecture and ship stability. It represents the distance between the center of gravity (G) and the metacenter (M) of a floating body. A positive metacentric height indicates stability, while a negative value suggests instability.
 For stable equilibrium, the position of metacentre M remains higher than centre of gravity of the body G.
 For unstable equilibrium, the position of metacentre M remains lower than G.
 For neutral equilibrium, the position of metacentre M coincides with G.
+
+## Explanation: 
+Here's a simplified explanation of how the metacentric height can be determined through a laboratory experiment:<br>
+
+1.	Model Ship:
+•	Use a small-scale model ship that represents the geometry and weight distribution of a real ship.,br>
+•	Ensure the model ship has a known center of gravity (G).
+2.	Tank of Water:
+•	Set up a tank of water large enough to submerge the model ship.<br>
+3.	Adjustable Inclination:
+•	Install a mechanism to tilt the tank to simulate heeling (tilting) of the ship.
 
 
 
