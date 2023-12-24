@@ -46,7 +46,6 @@ For neutral equilibrium, the position of metacentre M coincides with G.
 
 ## Explanation: 
 Here's a simplified explanation of how the metacentric height can be determined through a laboratory experiment:<br>
-
 1.	Model Ship:
 •	Use a small-scale model ship that represents the geometry and weight distribution of a real ship.,br>
 •	Ensure the model ship has a known center of gravity (G).
@@ -54,6 +53,36 @@ Here's a simplified explanation of how the metacentric height can be determined 
 •	Set up a tank of water large enough to submerge the model ship.<br>
 3.	Adjustable Inclination:
 •	Install a mechanism to tilt the tank to simulate heeling (tilting) of the ship.
+
+## EXPERIMENTAL SET UP:
+
+The experimental set up consists of a pontoon (flat bottomed vessel) which is allowed of float in a M.S. tank. The weight of the vessel is kept fix here. By means of a pendulum (consisting of a weight suspended to a longer pointer), the angle of tilt θ can be measured on a graduated arc. For tilting the ship model a cross bar with four movable hangers is fixed on the model. Pendulum and graduated arc are suitably fixed at the centre of the cross bar.
+
+## PROCEDURE:
+1.	Initial Equilibrium:
+•	Place the model ship in the water tank in its initial upright position.
+•	Allow the model ship to come to rest, ensuring it is in a stable equilibrium.
+2.	Tilt the Tank:
+•	Gradually tilt the tank to simulate the heeling of the ship.
+•	Measure the angle of heel (θ) and record it.
+3.	Observation and Measurement:
+•	Observe the new position of the model ship in the tilted condition.
+•	Measure the new centerline of the ship and the new center of buoyancy (B).
+4.	Calculations:
+•	Use the formula to calculate metacentric height GM.
+5.	Repeat for Different Heel Angles:
+•	Repeat the experiment by tilting the tank to different angles of heel.
+•	Record the corresponding values of θ, and GM.
+
+## Steps:
+
+1.	The relevant dimensions as area of collecting tank, mass density of water et c are provided in the data table.
+2.	The water level in the tank when pontoon is not in the tank are provided in the data table.
+3.	Pontoon is allowed to float in the tank. The reading of water level in the tank is recorded in table. 
+4.	Mass of pontoon can be obtained by the help of Archimedes’s principle.
+5.	Position of unbalanced mass, weight of unbalanced mass and the angle of heel can be noted down. 
+6.	Calculate the metacentric height of the pontoon.
+7.	The procedure is repeated for other positions of the unbalanced mass.
 
 
 
