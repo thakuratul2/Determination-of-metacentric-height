@@ -69,6 +69,27 @@
   font-size:10.9px;
   rotate:20deg;
 }
+.instruction{
+  position: absolute;
+  height: 180px;
+  width: 270px;
+  top: 971px;
+  left: 900px;
+  border: 2px black solid;
+}
+.instruction h2{
+  text-align: center;
+  
+  font-size: 25px;
+  
+  font-weight: bold;
+  
+  text-decoration: underline;
+}
+.instruction p{
+  
+  margin-left: 15px;
+}
 .gm4{
   position: absolute;
   right: 222px;
