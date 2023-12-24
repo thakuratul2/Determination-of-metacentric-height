@@ -39,6 +39,12 @@ The metacentre may also be defined as a point of intersection of the axis of bod
 
 
 
+Metacentric height: The metacentric height (GM) is a critical parameter in naval architecture and ship stability. It represents the distance between the center of gravity (G) and the metacenter (M) of a floating body. A positive metacentric height indicates stability, while a negative value suggests instability.
+For stable equilibrium, the position of metacentre M remains higher than centre of gravity of the body G.
+For unstable equilibrium, the position of metacentre M remains lower than G.
+For neutral equilibrium, the position of metacentre M coincides with G.
+
+
 
 ### Determination of Metacentric Height
 A known weight W1 is shifted by a distance Z across the axis of tilt. The change in momentum due to this shift is W1 Z. Let the angle of tilt be θ. The change in moment due to this tilt is equal to (Wc + W1) GM tanθ.

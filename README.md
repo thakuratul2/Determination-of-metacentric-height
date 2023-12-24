@@ -8,14 +8,10 @@
 
 ### About the Experiment 
 
-Buoyancy: 
-When a body is immersed in a fluid either wholly of partially, it is buoyed or lifted up by a force, which is equal to the weight of fluid displaced by the body.
+This experiment is based on the Archimedes principle. Archimedes’ principle is a law of physics fundamental to fluid dynamics. 
+“It states that the upward buoyant force exerted on a body immersed in a fluid, whether wholly or partially submerged, is equal to the weight of the fluid that the body displaces and acts in the upward direction at the center of mass of the displaced fluid.”
+If the weight of the fluid displaced is less than the weight of the object, the object will sink. The object will float if the weight of the fluid displaced is equal to the weight of the object. This upward force is known as thrust or buoyant force. It is a consequence of the difference in pressure the fluid exerts at different heights. The fluid pressure is exerted in all directions (Pascal’s principle) and increases with depth. There is an unbalanced upward force on the bottom of a submerged object.
 
-Centre of Buoyancy: The point of application of the force of buoyancy on the body is known as the centre of buoyancy. It is always the centre of gravity of the volume of fluid displaced.
-
-Metacentre: Figure shows a body floating in a liquid in a state of equilibrium. When it is given a small angular displacement, it starts oscillating about some point M. This point, about which the body oscillating, it is called metacentre. 
-
-The metacentre may also be defined as a point of intersection of the axis of body passing through centre of gravity G and original centre of buoyancy B and a vertical line passing through the centre of buoyancy B1 of the tilled position of the body. 
 
 
 ### Target Audience :
